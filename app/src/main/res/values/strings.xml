@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Remindr</string>
+    <string name="title_activity_location">Pick a Location</string>
+    <string name="title_activity_reminder">Reminders</string>
+    <string name="hint_edit_text_location">Location</string>
+    <string name="hint_edit_text_reminders">Reminders</string>
+    <string name="text_radio_btn_high">High</string>
+    <string name="text_radio_btn_normal">Normal</string>
+    <string name="text_radio_btn_low">Low</string>
+    <string name="text_checkbox_period">Set Period</string>
+    <string name="hint_edit_text_from_date">From Date</string>
+    <string name="hint_edit_text_to_date">To Date</string>
+    <string name="location_err_message">The location name is required</string>
+    <string name="reminders_err_message">Kindly set the reminders for this location</string>
+    <string name="modal_menu_edit">Edit</string>
+    <string name="modal_menu_share">Share</string>
+    <string name="modal_menu_delete">Delete</string>
+    <string name="from_date_text">From date...</string>
+    <string name="from_time_text">From time...</string>
+    <string name="to_date_text">To date...</string>
+    <string name="to_time_text">To time...</string>
+    <string name="radius_text">Radius:</string>
+    <string name="edit_location_menu">Edit location</string>
+    <string name="settings_menu">Settings</string>
+    <string-array name="priority_array">
+        <item>Normal priority</item>
+        <item>High priority</item>
+        <item>Low priority</item>
+    </string-array>
+    <string name="title_activity_reminder_detail">ReminderDetailActivity</string>
+    <string name="edit_reminder_menu">Edit</string>
+    <string name="delete_reminder_menu">Delete</string>
+    <string name="save_button">SAVE</string>
+    <string name="cancel_button">CANCEL</string>
+</resources>

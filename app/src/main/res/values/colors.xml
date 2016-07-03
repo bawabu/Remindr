@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLightPrimary">#BBDEFB</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorDivider">#D9D9D9</color>
+    <color name="colorHighPriority">#ff1414</color>
+    <color name="colorNormalPriority">#858585</color>
+    <color name="colorLowPriority">#40c4ff</color>
+    <color name="colorCircleFill">#93b3e5fc</color>
+    <color name="colorCircleStroke">#b3e5fc</color>
+    <color name="colorIcon">#757575</color>
+</resources>
